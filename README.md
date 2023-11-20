@@ -5,7 +5,8 @@
 In the project directory, you can run:
 
 ```bash
+npm install
 npm start
 ```
 
-This should open the app in a new browser tab. If not, copy one of the addresses displayed in your terminal to access the app.
+This should install the necessary dependencies to run the app, then start the app. If a browser tab with the locally hosted site is not opened automatically you can copy one of the addresses in the terminal response to do so.
