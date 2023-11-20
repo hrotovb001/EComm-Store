@@ -2,7 +2,7 @@
 
 ## How To Build and Run
 
-1. First, clone the repo to your local machine
+1. Clone the repo to your local machine
     ```bash
     git clone https://github.com/CommanderChrisOrg/CommanderChris.git
     ```
